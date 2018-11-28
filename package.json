@@ -1,0 +1,15 @@
+{
+  "name": "third-axis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "budo --live --verbose --port 3000 --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "budo": "^11.5.0"
+  }
+}
